@@ -22,6 +22,6 @@ BEM VINDO! Eu sou o Arthurotto123
 
 - 🔭 Em busca de um Estagio na área de programação
 - 🧑‍🎓 Estudante do 3 período de Engenharia de Software
-- 🌱 Estudando HTML, CSS JavaScript
+- 🌱 Estudando HTML, CSS, JavaScript React.js
 - 👯 EMAIL PARA CONTATO: arthurotaviocoelho06@gmail.com
 
